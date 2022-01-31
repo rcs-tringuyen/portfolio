@@ -50,7 +50,7 @@ export default function About() {
           <p className="mb-8 leading-relaxed">
           👨‍💻 I'm experienced with Django / Django Rest Framework<br />
           🕵 I constantly challenge myself with CTFs<br />
-          ✍ Sometimes I write blogs <a href="https://rcs-tringuyen.github.io/">here</a><br />
+          ✍ Sometimes I write blogs: <a href="https://rcs-tringuyen.github.io/">CLICK HERE</a><br />
           👨‍🎓 Learning M.E.R.N, Cloud, and more Cybersecurity<br />
           </p>
           <div className="flex justify-center">
